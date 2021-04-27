@@ -1,0 +1,12 @@
+body {
+    text-align: left;
+}
+
+#school {
+    width: 100%;
+    height: 500px;
+}
+
+#marqueeStyle {
+    background-color: lightcyan;
+}
